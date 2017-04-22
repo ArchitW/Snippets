@@ -1,0 +1,29 @@
+$(document).ready(function () {
+	$('#id_of_button').submit(function(e){
+		e.preventDefault();
+
+    
+	});
+});
+
+AJAX
+
+
+var requestURL=URL_PLACE_HERE?callback=?
+
+?callback=? == JSON(P) P=Padding
+
+$.getJSON(requestURL,{parameters},function(data)){}
+
+parameters = ('key':value) like api key other data
+data = object
+
+ex: 
+$.getJSON(requestURL,{
+	'api_key':123456,
+    'zip' : 999999
+},function(data){
+// do your stuff with data	
+
+
+});

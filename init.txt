@@ -1,6 +1,6 @@
 All Snippets goes in this folder
 Syntax:
- langName_type.txt
+ LangName\type.txt | htm
 
 type:
 	Common Syntax
