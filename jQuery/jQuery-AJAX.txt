@@ -15,7 +15,7 @@ var requestURL=URL_PLACE_HERE?callback=?
 
 $.getJSON(requestURL,{parameters},function(data)){}
 
-parameters = ('key':value) like api key other data
+parameters = ('key':value) like api key other data , null if no param
 data = object
 
 ex: 
@@ -25,5 +25,7 @@ $.getJSON(requestURL,{
 },function(data){
 // do your stuff with data	
 
-
 });
+
+
+
