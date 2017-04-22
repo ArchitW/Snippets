@@ -1,0 +1,11 @@
+// syntax
+
+$(document).ready(function(){
+//code here
+
+
+});
+
+$('#id').functions(){
+// do stuff here
+});
