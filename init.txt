@@ -1,0 +1,9 @@
+All Snippets goes in this folder
+Syntax:
+ langName_type.txt
+
+type:
+	Common Syntax
+	DB string and queries
+	Notes
+	Other Resources
